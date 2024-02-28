@@ -70,3 +70,7 @@ cFLIP = NFkB
 cIAP = not SMAC  and  cIAP or NFkB  and  not SMAC
 survival = NFkB
 ```
+
+## Supplementary materials
+![Supplementary_material_페이지_1](https://github.com/choonlog/AttractorTransition/assets/22069522/90976609-95a6-400a-b537-a18e79c3ba40)
+
