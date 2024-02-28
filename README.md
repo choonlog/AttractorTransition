@@ -73,4 +73,6 @@ survival = NFkB
 
 ## Supplementary materials
 <img src="https://github.com/choonlog/AttractorTransition/assets/22069522/90976609-95a6-400a-b537-a18e79c3ba40.png" width="800"/>
+<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/53783db2-4d21-4b2e-b11d-8eda9977aa56" width="800"/>
+
 
