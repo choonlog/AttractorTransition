@@ -72,5 +72,5 @@ survival = NFkB
 ```
 
 ## Supplementary materials
-![Supplementary_material_페이지_1](https://github.com/choonlog/AttractorTransition/assets/22069522/90976609-95a6-400a-b537-a18e79c3ba40)
+<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/90976609-95a6-400a-b537-a18e79c3ba40.png" width="200" height="400"/>
 
