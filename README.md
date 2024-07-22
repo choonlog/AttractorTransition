@@ -71,16 +71,4 @@ cIAP = not SMAC  and  cIAP or NFkB  and  not SMAC
 survival = NFkB
 ```
 
-## Supplementary materials
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/90976609-95a6-400a-b537-a18e79c3ba40.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/53783db2-4d21-4b2e-b11d-8eda9977aa56.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/3e81fb1c-f458-4a93-8453-7de761eb7f17.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/755448fa-b77f-4662-bb81-f7c976f9dbe1.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/672904a5-df0a-481d-82ad-f5888f21dc0d.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/00a1e364-25c0-47af-8460-4a2f72fb72e2.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/e77a332a-cfca-44ba-91eb-5c5ba81f676c.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/59243dc7-fd40-4c09-be1c-1871e1ee49e9.png" width="800"/>
-<img src="https://github.com/choonlog/AttractorTransition/assets/22069522/52851a86-848a-46dd-b856-839a903f350d" width="800"/>
-
-
 
