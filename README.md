@@ -8,9 +8,9 @@ transformation and systematically identifies control inputs. It can handle
 fixed-point attractors as well as cyclic ones as demonstrated in numerical
 experiments. 
 
-The code was originally written by Chun-Kyung Lee, and Namhee Kim participated in the discussion for updating the algorithm code during the development process.
+The code was originally written by Chun-Kyung Lee, with Namhee Kim contributing to discussions on updating the algorithm during the development process.
   
-**Reference paper:** Attractor-Transition Control of Complex Biological Networks: A Constant Control Approach DOI: 10.1109/TCYB.2024.3473945
+**Reference paper:** Attractor-Transition Control of Complex Biological Networks: A Constant Control Approach （DOI: 10.1109/TCYB.2024.3473945）
 
 
 ## Installation
