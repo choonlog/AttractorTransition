@@ -6,7 +6,13 @@ attractors and Boolean algebraic properties of underlying state transition
 equations. The package simplifies the BN expression through the coordinate
 transformation and systematically identifies control inputs. It can handle
 fixed-point attractors as well as cyclic ones as demonstrated in numerical
-experiments. A related paper is expected to be published soon.
+experiments. 
+
+The code was originally written by Chun-Kyung Lee, with Namhee Kim contributing to discussions on updating the algorithm during the development process.
+  
+**Reference paper:** Attractor-Transition Control of Complex Biological Networks: A Constant Control Approach 
+(DOI: 10.1109/TCYB.2024.3473945)
+
 
 ## Installation
 You can simply download AttractorTransition from this git repository, while
